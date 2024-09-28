@@ -3,7 +3,7 @@ const images = [
     { img: "https://acortar.link/hTdyDE", audio: "audios/kitchen.mp3" }, // Kitchen
     { img: "https://acortar.link/jmAnNl", audio: "audios/bathroom.mp3" }, // Bathroom
     { img: "https://acortar.link/AazYJH", audio: "audios/livingroom.mp3" }, // Livingroom
-    { img: "https://acortar.link/cUMFRK", audio: "audios/Beedroom.mp3" }, // Bedroom
+    { img: "https://acortar.link/cUMFRK", audio: "audios/bd.mp3" }, // Bedroom
     { img: "https://acortar.link/PqBhLE", audio: "audios/dn.mp3" }, // Diningroom
 ];
 
