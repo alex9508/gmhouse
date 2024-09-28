@@ -5,6 +5,7 @@ const images = [
     { img: "https://acortar.link/AazYJH", audio: "audios/livingroom.mp3" }, // Livingroom
     { img: "https://acortar.link/cUMFRK", audio: "audios/bd.mp3" }, // Bedroom
     { img: "https://acortar.link/PqBhLE", audio: "audios/dn.mp3" }, // Diningroom
+    { img: "https://acortar.link/cUMFRK", audio: "audios/bd.mp3" }, // Bedroom
 ];
 
 // Lista de imágenes disponibles para el juego actual
